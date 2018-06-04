@@ -1,0 +1,7 @@
+{
+    "name": "canvasExercises",
+    "version": "0.0.1",
+    "description": "draw shapes with canvas",
+    "dependencies": {
+    }
+}
